@@ -1,4 +1,4 @@
-# Face Emotion and Gender Recognition using Python
+# Face,  Gender and Emotion Recognition using Python
 
 ![image](https://user-images.githubusercontent.com/82361158/115289694-7d911000-a170-11eb-82fb-85d0638143e3.png)
 
